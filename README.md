@@ -1,4 +1,3 @@
 # hello-world
-my first repository
-
+my first repositor 
 it is my first gihub
